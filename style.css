@@ -86,3 +86,7 @@ p {
         max-width: 28%;
     }
 }
+
+img {
+  border: 5px solid #52057B;
+}
